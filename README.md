@@ -1,7 +1,7 @@
 [![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Abhishek P</h1>
 <h3 align="center">Python Enthusiast🐍: eager to learn and contribute to your team | Crafting Engaging user Experiences: Front-end Web developer 🕸 with a passion for design | Capturing the Beauty of the Small: Macro Photographer📷</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/Cw1xiqIp5akAAAAC/bom-dia-java.gif")
+img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/Cw1xiqIp5akAAAAC/bom-dia-java.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliptooth&label=Profile%20views&color=0e75b6&style=flat" alt="cliptooth" /> </p>
 
