@@ -1,6 +1,6 @@
 [![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Abhishek P</h1>
-<h3 align="center">Python Enthusiast🐍: eager to learn and contribute to your team | Crafting Engaging user Experiences: Front-end Web developer 🕸 with a passion for design | Capturing the Beauty of the Small: Macro Photographer📷</h3>
+<h3 align="center">I'm a passionate Data Analyst with a strong foundation in Python, SQL, Excel, and Power BI, dedicated to transforming raw data into meaningful insights. My journey in data analytics began with my Bachelor's degree in Computer Applications, where I developed a keen interest in leveraging data to solve real-world problems.📷</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/Cw1xiqIp5akAAAAC/bom-dia-java.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliptooth&label=Profile%20views&color=0e75b6&style=flat" alt="cliptooth" /> </p>
